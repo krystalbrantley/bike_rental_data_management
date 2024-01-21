@@ -21,7 +21,6 @@ This project involves exploring, cleaning, and merging Citi Bike ridership data 
 4. Finally, execute the `bike_rental_views.sql` script to create analytics-ready views for the analytics team.
 
 ## Necessary Files
-Download and unzip the `bike-rental-starter-kit.zip`. The kit contains the following folders:
 
 * ### data
 	* `newark_airport_2016.csv`: weather data from Newark airport
