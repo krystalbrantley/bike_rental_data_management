@@ -3,7 +3,7 @@
 ## Project Overview
 This project involves exploring, cleaning, and merging Citi Bike ridership data with NOAA weather data to create a PostgreSQL database with analytics-ready views. The objective is to help a bike rental company analyze the impact of weather conditions on bike rentals. 
 
-## Project Overview
+## Project Objectives
 * Utilize Jupyter notebook and pandas to explore, clean and transform Citi Bike ridership data
 * Design and implement a relational PostgreSQL database schema to store the integrated data
 * Develop SQL queries to create analytics-ready views in the database
